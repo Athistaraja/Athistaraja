@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Recently completed MERN stack Developer<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m Recently completed MERN stack Developer<br>👯 I’m looking to collaborate teaments<br>🤝 I’m looking for help with <br>🌱 I’m currently learning n<br>💬 I'm Bachelor of engineering completed and i wish to career build in tech industries <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
